@@ -1,0 +1,55 @@
+.jumbotron {
+    background-color: #80ff004a;
+    padding-top: 5rem;
+    text-align: center;
+}
+
+/* CSS Social icons */
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.social-icons li {
+    margin: 0 20px;
+}
+
+.social-icons li a {
+    font-size: 50px;
+    text-shadow: 0 0 0px;
+    transition: 1s case;
+}
+
+.social-icons li a:hover {
+    text-shadow: 0 0 10px;
+}
+
+/* social-icons end */
+
+.line {
+    border: solid 5px black;
+}
+
+.head {
+    background-color: #80ff004a;
+}
+
+.text {
+    text-align: center;
+}
+
+.span {
+    font-style: italic;
+}
+
+
+
+.form {
+    background: #80ff004a;
+}
+
+.form1 {
+    background-color: #80ff001c;
+}
